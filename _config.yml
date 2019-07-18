@@ -28,14 +28,14 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: carolin-beer
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -43,16 +43,19 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: carolin.beer
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  # - name: Distributed systems
+  #   web_url:
+  #   image_url:
+  - name: Distributed systems
+    image_url: https://atos.net/wp-content/uploads/2018/01/Trusted-Blockchain-300x300.png
 
-  - name: Web design
+  - name: Security
+    image_url: https://www.structured.com/wp-content/uploads/2017/09/Network-Security-Icon.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Energy markets 
+    image_url: https://procom-energy.de/en/wp-content/uploads/sites/4/2016/12/ProCom_Icon-Bilanzkreisverantwortlicher.png
+
