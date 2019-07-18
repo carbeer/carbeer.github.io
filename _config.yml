@@ -57,5 +57,14 @@ topics:
     image_url: https://www.structured.com/wp-content/uploads/2017/09/Network-Security-Icon.png
 
   - name: Energy markets 
-    image_url: https://procom-energy.de/en/wp-content/uploads/sites/4/2016/12/ProCom_Icon-Bilanzkreisverantwortlicher.png
+    image_url: https://www.freeiconspng.com/uploads/electric-icon-21.png
 
+hobbies:
+  - name: Photography
+    image_url: https://image.flaticon.com/icons/svg/56/56535.svg
+
+  - name: Travelling
+    image_url: https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/globe-512.png
+
+  - name: Fitness and running
+    image_url: https://www.freeiconspng.com/uploads/running-icon-5.jpg
