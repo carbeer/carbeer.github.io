@@ -43,7 +43,8 @@ social_media:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  website: carolin.beer
+  website: http://carolin.beer
+  email: mail@carolin.beer
   # youtube: your_username
 
 topics:
